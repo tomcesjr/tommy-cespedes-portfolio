@@ -564,7 +564,7 @@ h3.my-profession
     width: 100%;
     display: block;
 }
-.portfolio .portfolio-item-inner .portfolio-img h3
+.portfolio .portfolio-item-inner .portfolio-img 
 {
     color: var(--text-black-900);
 }
